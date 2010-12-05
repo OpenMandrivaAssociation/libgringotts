@@ -5,7 +5,7 @@
 
 Name:		libgringotts
 Version:	1.2.1
-Release:	%mkrel 1
+Release:	%mkrel 2
 Summary:	A data encapsulation and encryption library
 Group:		System/Libraries
 License:	GPLv2+
