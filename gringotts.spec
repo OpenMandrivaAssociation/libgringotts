@@ -9,7 +9,7 @@ Release:	%mkrel 2
 Summary:	A data encapsulation and encryption library
 Group:		System/Libraries
 License:	GPLv2+
-Url:		http://gringotts.berlios.de/
+Url:		https://gringotts.berlios.de/
 Source0:	http://download.berlios.de/gringotts/%{name}-%{version}.tar.bz2
 BuildRoot:	%{_tmppath}/%{name}-%{version}-buildroot
 
